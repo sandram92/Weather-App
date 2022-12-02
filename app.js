@@ -2,7 +2,6 @@ const button = document.querySelector("button");
 const input = document.querySelector(".searchBar");
 const city = document.querySelector(".city");
 const temperature = document.querySelector(".temp");
-const weather = document.querySelector(".weather");
 const picture = document.querySelector(".image");
 const description = document.querySelector(".description");
 const humidity = document.querySelector(".humidity");
